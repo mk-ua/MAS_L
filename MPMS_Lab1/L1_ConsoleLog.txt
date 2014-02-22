@@ -1,0 +1,34 @@
+лют 17, 2014 4:31:02 PM jade.core.Runtime beginContainer
+INFO: ----------------------------------
+    This is JADE 4.2.0 - revision 6574 of 2012/06/20 15:38:00
+    downloaded in Open Source, under LGPL restrictions,
+    at http://jade.tilab.com/
+----------------------------------------
+Retrieving CommandDispatcher for platform null
+лют 17, 2014 4:31:03 PM jade.imtp.leap.LEAPIMTPManager initialize
+INFO: Listening for intra-platform commands on address:
+- jicp://Sparta:1099
+
+лют 17, 2014 4:31:05 PM jade.core.BaseService init
+INFO: Service jade.core.management.AgentManagement initialized
+лют 17, 2014 4:31:05 PM jade.core.BaseService init
+INFO: Service jade.core.messaging.Messaging initialized
+лют 17, 2014 4:31:05 PM jade.core.BaseService init
+INFO: Service jade.core.resource.ResourceManagement initialized
+лют 17, 2014 4:31:05 PM jade.core.BaseService init
+INFO: Service jade.core.mobility.AgentMobility initialized
+лют 17, 2014 4:31:05 PM jade.core.BaseService init
+INFO: Service jade.core.event.Notification initialized
+лют 17, 2014 4:31:05 PM jade.mtp.http.HTTPServer <init>
+INFO: HTTP-MTP Using XML parser com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser
+лют 17, 2014 4:31:05 PM jade.core.messaging.MessagingService boot
+INFO: MTP addresses:
+http://systweak.com:7778/acc
+лют 17, 2014 4:31:05 PM jade.core.AgentContainerImpl joinPlatform
+INFO: --------------------------------------
+Agent container Main-Container@Sparta is ready.
+--------------------------------------------
+Hello World, my name is : GoPing@Sparta:1099/JADE
+ Ц GoPing received: Ping
+ Ц GoPong received: Ping
+ Ц GoPing received: Pong
