@@ -1,4 +1,4 @@
-package ua.agentlab;
+package ua.agentlab.lab1;
 
 import jade.core.AID;
 import jade.core.Agent;
