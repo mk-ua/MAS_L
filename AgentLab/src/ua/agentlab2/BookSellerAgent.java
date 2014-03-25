@@ -101,7 +101,7 @@ public class BookSellerAgent extends Agent {
 			public void action() {
 				catalogue.put(title, new Integer(price));
 				discounts.put(cardNumber, distPercent);
-				System.out.println(title + " inserted into catalogue. Price = " + price);
+				System.out.println(title + " inserted into catalogue. Price = " + price + " card number for discount = " + cardNumber + " Discount = " + distPercent);
 			}
 		});
 	}

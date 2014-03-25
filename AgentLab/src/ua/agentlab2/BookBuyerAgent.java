@@ -48,7 +48,7 @@ public class BookBuyerAgent extends Agent {
 	// Put agent initializations here
 	protected void setup() {
 		// Printout a welcome message
-		System.out.println("Hallo! Buyer-agent " + getAID().getName() + " is ready.");
+		System.out.println("Hello! Buyer-agent " + getAID().getName() + " is ready.");
 
 		// Get the title of the book to buy as a start-up argument
 		//TODO exctract to method.
